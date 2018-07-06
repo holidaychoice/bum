@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Holiday Choice",
-    "currentPage": "albania.html",
+    "currentPage": "bosnia .html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2797,7 +2797,7 @@
     },
     "bosnia .html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Where to stay if you want a good holiday please visit Bosnia and Herzegovina",
         "title": "Bosnia and Herzegovina",
         "order": 3
       },
