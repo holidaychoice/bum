@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Holiday Choice",
-    "currentPage": "index.html",
+    "currentPage": "albania.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1440,7 +1440,7 @@
     },
     "albania.html": {
       "settings": {
-        "meta_descr": "Where to stay if you want a good holiday please visit Albania",
+        "meta_descr": "Holiday Choice Good choice Best Destinations to visit t Albania",
         "title": "Albania",
         "order": 5
       },
@@ -1998,7 +1998,7 @@
     },
     "croatia.html": {
       "settings": {
-        "meta_descr": "Where to stay if you want a good holiday please visit Croatia",
+        "meta_descr": "Holiday Choice Good choice Welcome to Croatia a good holiday",
         "title": "Croatia",
         "order": 4
       },
@@ -2797,7 +2797,7 @@
     },
     "slovenia .html": {
       "settings": {
-        "meta_descr": "Holiday Choice Good choice for good holiday  Adriatic sea Slovenia ",
+        "meta_descr": "Holiday Choice Good choice Beautiful nature good vacation guaranteed   Adriatic sea Slovenia ",
         "title": "Slovenia ",
         "order": 2
       },
@@ -3357,7 +3357,7 @@
     },
     "serbia.html": {
       "settings": {
-        "meta_descr": "Holiday Choice Good choice for good holiday  Adriatic sea Serbia",
+        "meta_descr": "Holiday Choice Good choice The place to be  Serbia",
         "title": "Serbia",
         "order": 1
       },
@@ -3917,7 +3917,7 @@
     },
     "bosna.html": {
       "settings": {
-        "meta_descr": "Where to stay if you want a good holiday please visit Bosnia and Herzegovina",
+        "meta_descr": "Holiday Choice Good choice Enjoy Life - Bosnia and Herzegovina Bosnia and Herzegovina",
         "title": "Bosnia and Herzegovina",
         "order": 3
       },
