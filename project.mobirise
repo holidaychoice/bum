@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Holiday Choice",
-    "currentPage": "index.html",
+    "currentPage": "montenegro.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1122,7 +1122,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#ffffff"
             },
             ".mbr-text": {
               "color": "#767676"
@@ -1206,6 +1206,9 @@
                   "opacity": "1"
                 }
               }
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_name": "features18",

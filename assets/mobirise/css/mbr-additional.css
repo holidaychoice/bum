@@ -2239,7 +2239,7 @@ body {
   background-image: url("../../../assets/images/images-1-275x183.jpg");
 }
 .cid-qWugLqKOEq .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qWugLqKOEq .mbr-text {
   color: #767676;
@@ -2316,6 +2316,9 @@ body {
 }
 .cid-qWugLqKOEq .popup-btn:hover .mbr-section-btn {
   opacity: 1;
+}
+.cid-qWugLqKOEq .mbr-section-title {
+  color: #ffffff;
 }
 .cid-qXDaxFo3yG {
   padding-top: 30px;
