@@ -4546,6 +4546,90 @@ body {
 .cid-qWct4DTzXe .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-qXHTidpbSW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-qXHTidpbSW .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qXHTidpbSW .mbr-text {
+  color: #767676;
+}
+.cid-qXHTidpbSW .card {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.cid-qXHTidpbSW .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qXHTidpbSW .card-wrapper .card-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.cid-qXHTidpbSW .card-wrapper .card-img .mbr-overlay {
+  background-color: #efefef;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-qXHTidpbSW .card-wrapper .card-img .mbr-section-btn {
+  display: flex;
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qXHTidpbSW .card-wrapper .card-img img {
+  width: 100%;
+  height: 100%;
+}
+.cid-qXHTidpbSW .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-qXHTidpbSW .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-qXHTidpbSW .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-qXHTidpbSW .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qXHTidpbSW .popup-btn .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-qXHTidpbSW .popup-btn .mbr-section-btn {
+  height: 100%;
+  display: flex !important;
+  opacity: 0;
+}
+.cid-qXHTidpbSW .popup-btn:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-qXHTidpbSW .popup-btn:hover .mbr-section-btn {
+  opacity: 1;
+}
 .cid-qXDaRCGJ1H {
   padding-top: 90px;
   padding-bottom: 90px;
