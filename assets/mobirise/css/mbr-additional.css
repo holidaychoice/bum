@@ -1754,12 +1754,17 @@ body {
   color: #767676 !important;
 }
 .cid-qWfbzyc1N3 {
-  padding-top: 135px;
-  padding-bottom: 135px;
   background-image: url("../../../assets/images/holidey-2-1920x1111.jpg");
 }
 .cid-qWfbzyc1N3 H1 {
-  color: #149dcc;
+  color: #ffffff;
+}
+.cid-qWfbzyc1N3 .mbr-text,
+.cid-qWfbzyc1N3 .mbr-section-btn {
+  text-align: right;
+}
+.cid-qWfbzyc1N3 H3 {
+  text-align: right;
 }
 .cid-qXDgx22cPl {
   padding-top: 15px;
@@ -1770,35 +1775,6 @@ body {
   color: #ffffff;
 }
 #instagram-feed-block-26 .inst__title {
-  color: #ffffff;
-}
-.cid-qXHWDAaRWG {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-.cid-qXHWDAaRWG .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qXHWDAaRWG .section-text {
-  padding: 2rem 0;
-}
-.cid-qXHWDAaRWG .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qXHWDAaRWG .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qXHWDAaRWG .section-text I {
-  color: #0aedf5;
-}
-.cid-qXHWDAaRWG .section-text B {
   color: #ffffff;
 }
 .cid-qXCW1WPXfS .form-container {
