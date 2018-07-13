@@ -1762,7 +1762,7 @@ body {
   color: #149dcc;
 }
 .cid-qXDgx22cPl {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
@@ -1770,6 +1770,35 @@ body {
   color: #ffffff;
 }
 #instagram-feed-block-26 .inst__title {
+  color: #ffffff;
+}
+.cid-qXHWDAaRWG {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #2e2e2e;
+}
+.cid-qXHWDAaRWG .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qXHWDAaRWG .section-text {
+  padding: 2rem 0;
+}
+.cid-qXHWDAaRWG .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qXHWDAaRWG .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qXHWDAaRWG .section-text I {
+  color: #0aedf5;
+}
+.cid-qXHWDAaRWG .section-text B {
   color: #ffffff;
 }
 .cid-qXCW1WPXfS .form-container {
